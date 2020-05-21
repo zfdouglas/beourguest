@@ -1,0 +1,181 @@
+{
+  "questions": [
+    {
+      "questionNumber": "Question 1",
+      "questionText": "Where are we headed?",
+      "qSort": "Name",
+      "choices": [
+        { "Name": "Epcot", "Value": "Epcot" },
+        { "Name": "Magic Kingdom", "Value": "MagicKingdom" },
+        { "Name": "Hollywood Studios", "Value": "HollywoodStudios" },
+        { "Name": "Animal Kingdom", "Value": "AnimalKingdom" },
+        { "Name": "Non-Parks", "Value": "Else" },
+        { "Name": "Doesn't Matter", "Value": "NotMatter" }
+      ]
+    },
+    {
+      "questionNumber": "Question 2",
+      "questionText": "When you think of your favorite restaurants, what really makes them stand out to you?",
+      "qSort": "Important",
+      "choices": [
+        { "Name": "Great atmosphere or theming", "Value": "Theme" },
+        {
+          "Name": "The experience, or being treated like royalty",
+          "Value": "Experience"
+        },
+        { "Name": "Something about it is iconic or famous", "Value": "Iconic" },
+        { "Name": "The food just tastes really good", "Value": "Taste" },
+        {
+          "Name": "Convenient location, or nearby something awesome",
+          "Value": "Location"
+        }
+      ]
+    },
+    {
+      "questionNumber": "Question 3",
+      "questionText": "What word appeals to you most?",
+      "qSort": "OldNew",
+      "choices": [
+        { "Name": "Vintage", "Value": "Classic" },
+        { "Name": "Fresh", "Value": "New" }
+      ]
+    },
+    {
+      "questionNumber": "Question 4",
+      "questionText": "Do you gravitate towards places that are meditative or more lively?",
+      "qSort": "Volume",
+      "choices": [
+        { "Name": "Quiet", "Value": "Quiet" },
+        { "Name": "Lively", "Value": "Lively" },
+        { "Name": "Doesn't Matter", "Value": "NotMatter" }
+      ]
+    },
+    {
+      "questionNumber": "Question 5",
+      "questionText": "When you look at a menu, you look for...",
+      "qSort": "Menu",
+      "choices": [
+        { "Name": "Something exotic, or challenging", "Value": "Challenge" },
+        { "Name": "My go-to dish I get everywhere", "Value": "Same" },
+        { "Name": "Whatever the current ' in ' food is", "Value": "Fad" },
+        { "Name": "Something I have a hard time cooking", "Value": "Fancy" }
+      ]
+    },
+    {
+      "questionNumber": "Question 6",
+      "questionText": "When you travel, your saying is...",
+      "qSort": "Safe",
+      "choices": [
+        {
+          "Name": "Better safe than sorry",
+          "Value": "Safe"
+        },
+        { "Name": "When in Rome", "Value": "NewThings" }
+      ]
+    },
+    {
+      "questionNumber": "Question 7",
+      "questionText": "Do you like taking your time for a sit-down meal or would you rather order at a counter so you can get going faster?",
+      "qSort": "SitCounter",
+      "choices": [
+        { "Name": "Sit-Down", "Value": "SitDown" },
+        { "Name": "Counter-service", "Value": "Counter" }
+      ]
+    },
+    {
+      "questionNumber": "Question 8",
+      "questionText": "What is your favorite meal of the day?",
+      "qSort": "Meal",
+      "choices": [
+        { "Name": "Breakfast", "Value": "Breakfast" },
+        { "Name": "Lunch", "Value": "Lunch" },
+        { "Name": "Dinner", "Value": "Dinner" },
+        { "Name": "Snack", "Value": "Snack" }
+      ]
+    },
+
+    {
+      "questionNumber": "Question 9",
+      "questionText": "When I eat out, my money comfort zone is...",
+      "qSort": "Money",
+      "choices": [
+        { "Name": "Best bang for my buck, I am a bit frugal", "Value": "$" },
+        {
+          "Name": "Not the cheapest place, but I am money-conscious",
+          "Value": "$$"
+        },
+        {
+          "Name": "I care about my food, and have no problem paying a bit more for a good experience.",
+          "Value": "$$$"
+        },
+        {
+          "Name": "Money is no object if the food and experience is fantastic.",
+          "Value": "$$$$"
+        }
+      ]
+    },
+    {
+      "questionNumber": "Question 10",
+      "questionText": "What food do you love getting when you go out?",
+      "qSort": "Taste",
+      "choices": [
+        { "Name": "American", "Value": "American" },
+        { "Name": "Italian", "Value": "Italian" },
+        { "Name": "Something Unique", "Value": "Unique" },
+        { "Name": "Upscale", "Value": "Upscale" },
+        { "Name": "Comfort food", "Value": "Comfort" },
+        { "Name": "Asian", "Value": "Asian" },
+        { "Name": "Treats, like something fried or sugary", "Value": "Treat" },
+        { "Name": "Seafood", "Value": "Seafood" },
+        { "Name": "Steak", "Value": "Steak" },
+        { "Name": "International", "Value": "International" },
+        { "Name": "Healthy", "Value": "Healthy" },
+        { "Name": "Doesn't Matter", "Value": "NoMatter" }
+      ]
+    },
+    {
+      "questionNumber": "Question 11",
+      "questionText": "What special Disney restaurant ' plus ' is important to you?",
+      "qSort": "Special",
+      "choices": [
+        { "Name": "Character Dining", "Value": "Characters" },
+        { "Name": "Dinner Show", "Value": "Show" },
+        { "Name": "Dinner and Nighttime Event Package", "Value": "Event" },
+        { "Name": "All-You-Can-Eat", "Value": "AllYou" },
+        { "Name": "Doesn't matter", "Value": "NoMatter" }
+      ]
+    },
+
+    {
+      "questionNumber": "Question 12",
+      "questionText": "Do you value an experience that would be considered kid-friendly?",
+      "qSort": "Kids",
+      "choices": [
+        { "Name": "Not Important", "Value": "NotImport" },
+        { "Name": "Extremely important", "Value": "Import" },
+        {
+          "Name": "Actually, I would prefer less kids in general",
+          "Value": "Not"
+        }
+      ]
+    },
+    {
+      "questionNumber": "Question 13",
+      "questionText": "Finish this sentence, I enjoy the _______ things",
+      "qSort": "er",
+      "choices": [
+        { "Name": "Finer", "Value": "Finer" },
+        { "Name": "Funner", "Value": "Funner" }
+      ]
+    },
+    {
+      "questionNumber": "End",
+      "questionText": "ForbiddenZone",
+      "qSort": "End",
+      "choices": [
+        { "Name": "Finer", "Value": "Finer" },
+        { "Name": "Funner", "Value": "Funner" }
+      ]
+    }
+  ]
+}

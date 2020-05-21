@@ -1,0 +1,1148 @@
+{
+  "locations": [
+    {
+      "Restaurant": "Be Our Guest",
+      "Meals": "BLD",
+      "Price": "$$-$$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Be Our Guest at Be Our Guest! Open for sitdown breakfast, quick service lunch, and sitdown dinner, this restaurant is a stand-out in Magic Kingdom. Offering accessible, French-fare in rooms beautifully themed after Beauty and the Beast this is a highly recommended spot. Make sure to make reservations- this place fills up fast.",
+      "Tip": "Go during lunch for the same beautiful ambience without the sitdown pricetag."
+    },
+    {
+      "Restaurant": "Aloha Isle",
+      "Meals": "S",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Nestled in Magic Kingdom's Adventureland this counter service serves up tropical treats that will cool you down on a hot summer's day.",
+      "Tip": "Try the famous dolewhip!"
+    },
+    {
+      "Restaurant": "Cheshire Cafe",
+      "Meals": "S",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Conveniently located next to the Wonderland Teacups, this quick service stop themed to look like a fairy-tale cottage, serves up the famous Magic Kingdom cheshire cat tail snack.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Gaston's Tavern",
+      "Meals": "BS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "No one serves up delicious treats like Gaston! This quick service snack stop themed after the tavern in Beauty and the Beast is a great go-to for those wanting a quick bite- whether it be a cinnamon roll, fruit cup, or the very-sweet signature drink Lefou's Brew.",
+      "Tip": "The interior is very well-themed and includes an over-sized chair fit for Gaston which offers a very good photo-op. "
+    },
+    {
+      "Restaurant": "Golden Oak Outpost",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "If you're looking for a quick bite when venturing between Frontier and Adventureland, Golden Oak Outpost is a great place to ruin your diet. Their menu includes chicken nuggets, loaded onion rings, loaded waffle fries, and chili-cheese onions rings or waffle fries. Woof.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Liberty Square Market",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Let freedom ring before or after your Hall of Presidents experiences at Liberty Square Market, where you can sink your teeth—whether wooden or pearly white—into chips, healthy snacks (or if you're feeling carnivorous- a turkey leg or hot dog).",
+      "Tip": "Great option for families who are looking for healthier park options"
+    },
+    {
+      "Restaurant": "Pecos Bill's Tall Tale Inn",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "MK",
+      "Img": "Taste",
+      "Link": "Challenge",
+      "Description": "Themed after an old-west saloon, this popular Frontierland quick services offers TexMex favorites including fajitas, tacos, and churros- as well as having a DIY toppings bar to really customizer your order.",
+      "Tip": "This place gets very busy and hectic during lunch, ordering ahead is highly recommended."
+    },
+    {
+      "Restaurant": "Casey's Corner",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Hey batter batter! Step back in time at Casey's Corner, a quick service restaurant serving up American classics like hotdogs, corn dog nuggets, and lemonade slushies. Take a seat on their patio and take in the magic of the Magic Kingdom hub as you eat.",
+      "Tip": "Check your time schedule! Outside Casey's throughout the day is an amazing ragtime pianist that takes requests!"
+    },
+    {
+      "Restaurant": "Plaza Ice Cream Parlor",
+      "Meals": "S",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Step back in time to the ice cream parlors of old at Plaza Ice Cream Parlor. Enjoy hand-scooped ice creams and sundaes that are perfect for a hot Summer day in the parks",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Diamond Horseshoe",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Step back in time and into an Old West Music Hall and enjoy an all-you-can-eat feast of BBQ including brisket, sausage, chicken, and of course- mac and cheese.",
+      "Tip": "If you don't want all you can eat, a la carte options are available."
+    },
+    {
+      "Restaurant": "The Friar's Nook",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Nestled in the midst of Fantasyland, load up on comfort food treats at this comfort food kiosk. The Friar's Nook is open for all meals, serving up breakfast sandwiches, and donuts for breakfast, and bacon mac and cheese, brats, and hot dogs, as well as loaded tater tots for lunch and dinner.",
+      "Tip": "You can get your bacon mac and cheese on your tots!"
+    },
+    {
+      "Restaurant": "The Lunching Pad",
+      "Meals": "LS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Location, location, location. If you find yourself in Tommorowland and want a quick re-fuel before heading to Space Mountain or getting on the PeopleMover, The Lunching Pad is for you. This counter service stop features slushies, pretzels, churros, baked pretzels, and if you are looking for something more substantial- a roast beef sandwich.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Columbia Harbor House",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Want to take a break from typical theme park food? Columbia Harbor House is a welcomed departure from the usual. In a quiet, New England style Inn, Columbia is serving up both fried and grilled seafood (including lobster rolls!), chicken pot pie, chicken nuggets and salads. ",
+      "Tip": "One of the developer's favorites! Columbia Harbor House is a lot quieter than a lot of other quick services in the area and the AC is always on."
+    },
+    {
+      "Restaurant": "Cinderella's Royal Table",
+      "Meals": "BLDS",
+      "Price": "$$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Feel like royalty when you dine with the princesses in Cindarella Castle. This upscale dining experience allows for your to party to meet, take pictures, and get autographs with a host of Disney Princesses, all while having a delicious meal in a fantastical setting.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Jungle Navigation Co. LTD Skipper Canteen",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Get out your safari hat for this Jungle Cruise-themed sitdown meal. Dine in a beautifully themed restaurant, being treated to laughs and groan-worthy puns from your jungle skipper waiters and waittresses. This sitdown meal is a newcomer to Magic Kingdom and allows you to explore bold and flavorful African, Asian, and South American cuisine.",
+      "Tip": "A Disneats Favorite! We recommend the Kungaloosh Spiced Excursion Ale and whole-fried fish."
+    },
+    {
+      "Restaurant": "Sleepy Hollow",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Good food and a great view doesn't get much better than this. This counter service cottage nearby Cinderella's castle serves up unique snacks big enough to be meals. Choose between sweet & spicy chicken, fruit and nutella, or egg and cheese waffle sandwiches, Mickey waffles topped with sugar or strawberries, or a foot-long corn dog.",
+      "Tip": "A Disneats Favorite! The fruit and nutella waffle sandwich is the perfect breakfast or lunch."
+    },
+    {
+      "Restaurant": "Crystal Palace",
+      "Meals": "BLD",
+      "Price": "$$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Feel like a kid again with this all-you-can-eat dining experience where you get to meet with Winnie the Pooh characters as you eat a hearty buffet of typical American favorites. If Winnie the Pooh characters aren't your thing, the building itself is based off of 1800s Victorian greenhouses and gorgeous enough to be a treat all on its own.",
+      "Tip": "During the Halloween season, there is a Halloween-themed dining experience."
+    },
+    {
+      "Restaurant": "The Plaza Restaurant",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Offering a taste of turn-of-the-century elegance, this gorgeous Main Street USA sitdown restaurant offers a taste of American favorites at very reasonable prices for breakfast, lunch, and dinner. Some Plaza highlights include lobster-fried green tomato eggs benedict, lobster cobb salad, and all-you-care-to-enjoy milkshakes.",
+      "Tip": "The view of the Magic Kingdom hub and gardens from this restaurant is second to none."
+    },
+    {
+      "Restaurant": "Liberty Tree Tavern",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Sample American favorites in all-you-care-to-enjoy style at this quaint, American Inn in the heart of Liberty Square. With a menu featuring turkey breast, pot roast, stuffing, mac and cheese, as well as New England clam chowder, and lobster fritters you will be rolling out of this place.",
+      "Tip": "The ooey-gooey toffee cake is a an absolute cult-favorite."
+    },
+    {
+      "Restaurant": "Tony's Town Square",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "At this turn-of-the-century trattoria at the entrance to the Magic Kingdom park you can have a bella notte. With mouth-watering Italian favorites enjoyed in a romantic setting featuring a beautiful fountain paying homage to Lady and the Tramp.",
+      "Tip": "During the winter they have a Very Merry Christmas Party for dinner."
+    },
+    {
+      "Restaurant": "Cosmic Ray's Starlight Cafe",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "Get a bite to eat, and catch some out-of-this-galaxy entertainment at this Tomorrowland quick service restaurant. The menu offers traditional American park food, including cheeseburgers, hotdogs, chicken clubs, salads, and nuggets. The real star of the show is Sonny Eclipse, an animatronic MC in the restaurant that will play some tunes and provide commentary during your meal.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Pinocchio's Village Haus",
+      "Meals": "BLD",
+      "Price": "$$",
+      "Park": "MK",
+      "Img": "",
+      "Link": "",
+      "Description": "In a quaint Bavarian-style cottage overlooking It's A Small World, Pinnochio's Village Haus offers flatbreads, pasta, salads, and chicken nuggets for lunch and dinner. The real fun is getting to look out over the It's A Small World ride, and for the kids (or yourself!) the restaurant offers ways to interact with those on the ride.",
+      "Tip": "The upstairs is relatively quiet even during peak hours and offers outlets to charge your phone."
+    },
+    {
+      "Restaurant": "Tiffins Restaurant",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Set off on a culinary expedition of international cuisine at this restaurant inspired by exploration and adventure. This restaurant is a newcomer to Animal Kingdom but is already a sought-after reservation. The attention to detail and the quality of the ingredients shines in this restaurant that pays tribute to many different food cultures.",
+      "Tip": "The bread service appetizer cannot be missed."
+    },
+    {
+      "Restaurant": "Dino Diner",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "AS you take in the atmosphere of Dinoland USA, grab a quick bite at the dino diner, this snack kiosk offers American favorites, including corn-chip pie, hot dogs, and chilidogs. For snacks, the kiosk offers churros and chips and queso.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Eight Spoon Cafe",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Situated in Discovery Island, this cult-favorite kiosk offers tasty snacks that can double as meals for the weary-traveler. Favorites of the kiosk include baked mac and cheese with pulled pork or baked mac and cheese with shrimp and sweet chili sauce.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Harambe Fruit Market",
+      "Meals": "S",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Refuel with healthy food at this fruit cart before heading off to another safari. This quick service kiosk offers the much-needed healthy food that vacations tend to lack, including mandarins, babybel cheese, bananas, apples, corn on the cob, and fruit cups. And for those who aren't convinced- Harambe market also offers mickey pretzels and chips.",
+      "Tip": "Grab a 3 pack of mandarin oranges to snack on before you head to the Gorilla Falls Exploration Trail"
+    },
+    {
+      "Restaurant": "Restaurantosaurus",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Enjoy a tongue-in-cheek meal at this Dino-dig-site themed counter service diner serving up American fare including burgers, breaded shrimp, BLT chicken sandwiches, salads, and chicken nuggets. The toppings bar is the cherry on top for this site.",
+      "Tip": "See if you can grab a table in the hollowed-out RV attached to the restaurant for a unique eating venue."
+    },
+    {
+      "Restaurant": "Tusker House",
+      "Meals": "S",
+      "Price": "$$$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Meet Safari Donald Duck and friends as you enjoy an African-flavor all-you-can-eat dining experience in a beautifully-themed location reminiscent of an African market. This restaurant offer breakfast, lunch, and dinner and is great for those with a slightly more adventurous palate. Additionally, eating there for dinner offers you the chance for preferential seating for Rivers of Light when you choose the Rivers of Light dining package.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Yak & Yeti",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "If you want ambience and theming, this restaurant is for you. Located in the Asia area of Animal Kingdom, Yak & Yeti is a sitdown restaurant that offers asian-flavors in a beautiful Nepalese-themed environment.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Flame Tree Barbecue",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "An Animal Kingdom institution, Flame Tree offers up incredibly-tasty smokehouse meats and chicken alongside classic baked beans and coleslaw. This quick service is plain and simple one of the best meals you can get in the park for its price, and with shaded tables surrounded by lush greens- the location is great too.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Harambe Market",
+      "Meals": "LDS",
+      "Price": "$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "This series of 4 counter-service windows offer unique African food in an open-air market themed environment. Harambe Market is especially great for fresher tasting, and seasonal foods, as well as very allergy-friendly eats.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Harambe Fruit Market",
+      "Meals": "BLS",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Whether you are waiting for your Kilimanjaro safari fast pass reservation and want to grab a quick breakfast or lunch, or you're getting a little hungry and are looking for a snack- Kusafiri has delicious offerings including a pistachio honey croissants, chicken and shrimp curry, and quinoa salad. ",
+      "Tip": "The colossal cinnamon roll is about the size of your face and drizzled with honey, much recommended."
+    },
+    {
+      "Restaurant": "The Smiling Crocodile",
+      "Meals": "BLS",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Located on Discovery Island of Animal Kingdom, this cult-favorite kiosk offers up unique snacks good enough to be your lunch. Chomp down on pulled-pork-stuffed jelly donuts, street tacos, and pork tamales on your way to your next adventure. This kiosk is ideal for those who don't want the typical theme park snack and want to broaden their horizons.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Nomad Lounge",
+      "Meals": "LDS",
+      "Price": "$$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "For those who want to trek across the culinary globe without committing to a meal- this is the place for you. While technically a lounge, this Animal Kingdom stop offers a huge range of appetizers and small plates fresh from the kitchen of the adjact Tiffins Restaurant. Additionally, this spot boasts a beautiful location, overlooking the water and bridge that crosses over to Pandora.",
+      "Tip": "Because this lounge shares a kitchen with Tiffins, you have access to their famous bread service."
+    },
+    {
+      "Restaurant": "Pizzafari",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "This counter service is the savior of parents and picky eaters alike. Pizzafari is a great place for those who are looking for a reasonably-priced counter service that offers the standard-fare of any pizza establishment. Additionally, the bright murals occupying the 5 distinct rooms of Pizzafari make a for a great game of eye-spy.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Satu'li Canteen",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "Satu'li Canteen is one of the best counter services in Walt Disney World, and a relative new-comer in Animal Kingdom. Situated in Pandora, this restaurant is incredly well-themed after the mess halls in James Cameron's Avatar. The food itself is the real winner here. Specializing in customizable bowls, the food is fresh, made-to-order and a clear departure from typical theme-park flavor profiles, and more unique ingredients like quinoa, tofu, and boba balls.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Yak & Yeti Local Food Cafes",
+      "Meals": "BLDS",
+      "Price": "$$",
+      "Park": "AK",
+      "Img": "",
+      "Link": "",
+      "Description": "When the craving for asian takeout hits- Yak & Yeti Local Food Cafes is your answer. This counter-service themed after Nepalese buildings offers typical American breakfast fare- including breakfast bowls and sandwhiches. However, for lunch, dinner, and snacks you are treated to egg rolls, honey chicken, beef bowls, and various fried rices.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Le Cellier",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This sitdown restaurant is an institution at Epcot. Located in the Canada pavillion, this steakhouse offers high-quality cuts of meat, seafood, and of course- poutine, in a quiet and cool wine cellar of a Candian chateaux. This restaurant is for those who like to eat well and like a quiet, cozy experience to do so.",
+      "Tip": "The reservations for this place are very hard to get. Make sure to book well in advance."
+    },
+    {
+      "Restaurant": "Chefs de France",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you crave the timeless air of a French brasserie, and have a more adventurous palette this sitdown restaurant is for you. French cuisine is the forefront here, with absolutely classic plates like Boeuf Bourgignon, Canard a l'orange, Salade nicoise, you are in for a delicious culinary experience. The view is not one to sneeze at either- giving you a beautiful view of the France Pavillion through the cafe windows.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Akershus Royal Banquet Hall",
+      "Meals": "BLD",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This all you can eat character meal lets you dine with a host of Disney Princesses under the soaring beams of a medieval castle's banquet hall. The breakfast is more traditional American fare, but lunch and dinner options offer the more adventurous eater a chance to taste many Norwegian specialties including Scandinavian seafood, imported cheeses, and cured meats. ",
+      "Tip": ""
+    },
+
+    {
+      "Restaurant": "Biergarten",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "It's Oktoberfest every day of the year at the Biergarten, an all you can eat restaurant built to look like a Bavarian town during Oktoberfest, replete with live Oompah band and communal tables. The dishes at Biergarten include the traditional German fare you would imagine including bratwurst, shnitzel, spaetzel, and of course beer. This restaurant is great for those who want a good (and possibly racous) time with good, hearty food.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Monsieur Paul",
+      "Meals": "D",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Nothing quite says sophisticated elegance like Monsieur Paul's. Located in Epcot's France Pavillion, Monsieur Paul delivers classic French dishes in stately elegance. This restaurant makes for an impressive date night or a quiet dinner to sit back and appreciate very lovingly crafted food.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Coral Reef Restaurant",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Coral Reef Restaurant is a restaurant for seafood lovers. Located in the Living Seas at Epcot, enjoy a lobster seafood boil, shrimp and grits, or herbed chicken while taking in the beautiful views of the main aquarium tank.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Garden Grill",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Character meal? Check. All you can eat? Check. Food grown in the Land Pavillion itself? Check. Oh yeah, and the whole restaurant rotates. Garden Grill is a lesser known character meal spot in The Land Pavillion of Epcot that faithfully serves up delicious typical American fare for breakfast, lunch, and dinner. This spot is a healthier alternative than other restaurants as well, focusing on fresher tastes and farm-fresh food sources.",
+      "Tip": "As the restaurant rotates you can look in on scenes from the Living With The Land attraction below."
+    },
+
+    {
+      "Restaurant": "San Angel Inn Restaurante",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Nestled inside the pyramid of the Mexican pavillion, San Angel Inn Restaurante delivers all the ambience you could ask for. Dine on upscale Mexican specialties under a perpetually starry sky beside a Mayan pyramid and a beautiful Mexican square. This restaurant is great for a romantic date night, or a fun night out with friends- their margaritas are huge.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Nine Dragons Restaurant",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "The China Pavillion in Epcot is beautiful and this sitdown restaurant is no exception. Nine Dragons Restaurant is a beautiful sitdown offering Chinese dishes from a variety of styles of Chinese cooking including Cantonese, Mongolian, and Schezuan specialties. The attention to detail in the restaurant is amazing and is definitely a great place for a quiet, date-night meal. ",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Restaurant Marrakesh",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Delicious cuisine and incredibly faithful architecture and decor transport you to Morocco at this sitdown restaurant. Featuring Moroccan favorites such as roast lamb, kebabs, and various national couscous dishes the food is a delicious departure from your typical park food. With the soaring, tiled ceilings, and soft light, Restaurant Marrakesh makes for a romantic evening dinner.",
+      "Tip": "Disneats Tip: The bastilla appetizer is to die for."
+    },
+    {
+      "Restaurant": "Rose & Crown Pub",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Transport yourself to a cozy English pub at the Rose and Crown. Offering an array of traditional English fare such as bangers and mash, shepherd's pie, fish and chips, and chicken tikka masala this place is a comfort food gem. This place is great for those who want to taste the world but aren't looking for something completely out of their comfort zone.",
+      "Tip": "If you book a reservation during the nighttime show and request a table with a lagoon view you may be able to watch the show from your seat!"
+    },
+    {
+      "Restaurant": "Spice Road Table",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This Epcot sitdown restaurant boasts beautiful views of the lagoon and ambience of the Moroccan pavillion. This small plates restaurant offers a variety of Mediterranean and North African flavors including lamb sliders, skewers, strip steak, hummus and olives, and rice-stuffed grape leaves. This restaurant is a fantastic date spot, with views of the nighttime entertainment easily accessible from your table.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Kabuki Cafe",
+      "Meals": "S",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This small kiosk in the Japan pavillion is themed like a market stall and is home to one of the cult-favorites of Epcot, kakigori. Kakigori is Japanese shaved-ice with flavored syrup on top- the perfect snack for the summer. In addition to the kakigori you can broaden your snack horizons with sushi, edamame, wines, and sake.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Kringla Bakeri Og Kafe",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Step inside this Norwegian-style cottage and chow down on some of the most delicious baked goods in all of Disney World. This unassuming spot churns out delicious Norwegian specialty pastries, breads, and sandwiches all day and is well worth waiting in the line that forms.",
+      "Tip": "Disneats Favorite: The Norwegian Schoolbread is a must-get on every trip."
+    },
+    {
+      "Restaurant": "Joy of Tea",
+      "Meals": "S",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This kiosk in the China pavillion is called the Joy of Tea but it serves up much more than that. Here you can enjoy egg rolls, curry pockets, bubble tea, and delicious cocktails. This spot is great for a pick-me-up as you explore the China pavillion or watch the Chinese acrobats.",
+      "Tip": ""
+    },
+
+    {
+      "Restaurant": "Takumi Tei",
+      "Meals": "D",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Takumi Tei is Japanese for 'house of the artisan' and they take that very seriously, everything about your meal from start to finish is artful and lovingly crafted. Takumi Tei is a sitdown restaurant nestled in the quiet of the Japan pavillion. Here, only the choicest cuts of wagyu beef and sushi are served with attention to detail and fresh ingredients being tantamount. However, this restaurant isn't for the light of wallet- with the tasting menu set at $150 per person.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Teppan Eddo",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Gather around a hibachi grill and watch as the hibachi chefs slice, dice, and grill up delicious food in a light-hearted and fun environment. Located on the second floor of the Japan pavillion's castle, this restaurant is a great place for those who want global flair without the options being completely unfamiliar.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "La Cantina De San Angel",
+      "Meals": "D",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "La Cantina De San Angel is Mexico's quick service location that serves up familiar Mexican favorites like tacos, empanadas, and of course nachos as well as margaritas. This restaurant is great for those who wish to enjoy the outdoors and get a view of the Seven Seas Lagoon from the shaded seating area without breaking the bank.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "La Cava del Tequila",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This crowded little 'tequila cave' situated in the Mexico pavillion does one thing and does it well- tequila. This quaint little walk-up bar offers an incredible range of different craft margaritas, and tequila flights. This stop is a must if you like tequila, want to check off your drinking around the world sheet, or just want a great post-dinner drink.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Tokyo Dining",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Situated on the second floor of the Japan Pavillion's castle, next to Teppan Edo is the unassuming Tokyo Dining sitdown restaurant. With great views of the Seven Seas lagoon, and a quiet, meditative atmosphere, this restaurant makes a great date night spot. The menu's star attraction is their large selection of sushi, which is prepared within view at the back of the restaurant. If you're not a big sushi fan fear not, they also have a large selection of grilled and tempura fried meat and tofu as well as noodles.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Via Napoli",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Mamma Mia! Serving up what is inarguably the best pizza in the Disney World parks, Via Napoli serves up wood-fired Italian dishes such as pizza, pasta, and various Italian meat dishes. This casual sitdown dining experience offers a taste of Italy in Florida with high-ceilings, beautiful frescoes, and wood-fire stove triplets named after the three active volcanoes in Italy.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Katsura Grill",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "Nestled in the back of the Japan Pavillion, this unassuming counter service serves up great, traditional Japanese dishes in a quiet, meditative garden space that gets you away from the hustle and bustle. Sushi, teriyaki, and noodle bowls take center stage as affordable options for those who want Japanese but aren't looking to commit to a sitdown.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Les Halles Boulangerie-Patisserie",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This bakery hidden in the back of the France pavillion of Epcot offers up delicious baked goods, pastries, cheese plates, sandwiches, and many more French Favorites. The food here is delicious, and is able to be enjoyed in the indoor cafe with coffee, champagne, or wine. A romantic pitstop for those on a budget.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Sommerfest",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This counter service restaurant offers up traditional Bavarian fare such as bratwurst, bavarian pretzels, frankfurters, and apple streudel can be purchased and then eaten al fresco in the center of Germany's pavillion. This counter service is great for those who like the Oktoberfest ambience but don't want to commit to the sitdown meal at Biergarten- grab a beer as you order and you can have your own Oktoberfest.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Lotus Blossom Cafe",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This counter service restaurant offers up familiar Chinese food favorites such as orange chicken, egg rolls, and beef noodle bowls, in a covered, open-air environment that looks out on the beauty of the China Pavillion.",
+      "Tip": "Depending on your seating you may be able to catch the Chinese acrobats perform from your seat."
+    },
+    {
+      "Restaurant": "Regal Eagle Smokehouse",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "A newcomer to Epcot and the American Pavillion, the Regal Eagle Smokehouse is a tongue-in-check Muppet-themed barbecue counter service restaurant. The food is delicious American-style barbecue fare set to the backdrop of a cook-off supposedly set forth by Sam Eagle. Out in front of the restaurant features a large barbecue smoker that sets the mood and gets the stomach rumbling.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Sunshine Seasons",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "What this counterservice area lacks in theming it more than makes up for in variety. Set up like a cafeteria, Sunshine seasons, located in The Land pavillion of Epcot offers several different counters to choose from depending on your mood including: an Asian counter, a sandwich counter, a soup and salad counter, grab and go, and a wood-fired grill counter. Additionally, much of the food is sourced from the gardens and sustainable fisheries of The Land pavillion, making it one of the healthier options in Epcot.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Yorkshire County Fish Shop",
+      "Meals": "LDS",
+      "Price": "$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This counter service restaurant attached to the Rose & Crown pub serves up traditional English comfort food favorites including the eponymous fish and chips. This counter service is great for people who want to get a quick bite to eat and a beer and take in the scenery of the UK pavillion, or keep going to take in more of the park.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Tangierine Cafe",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "EP",
+      "Img": "",
+      "Link": "",
+      "Description": "This counter service restaurant nestled in the Morocco pavillion offers delicious and slightly adventurous, traditional Moroccan dishes like couscous, kebabs, hummus, and lamb wraps in an open-air environment. This restaurant is great for those who want to take in the sights and sounds of the exquisitely-detailed pavillion and have a craving for more unique eats.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Hollywood Brown Derby",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Step back in tme and dine with the stars in this faithful recreation of the historic Hollywood institution of the same name. This upscale eatery is for those who love nostalgia, good food, and a luxurious environment. Classic American favorites such as the cobb salad and grapefruit cake transport you back to that bygone era with impeccable service to boot.",
+      "Tip": "This restaurant books up well in advance, make sure to make a reservation!"
+    },
+    {
+      "Restaurant": "50s Prime Time Cafe",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Fans of immersive theming will love 50s Prime Time Cafe. Step back in time and into the idealized American kitchen of the 50s, with vinyl tile, pepto-bismol pink counters, black and white tv sets, and a waiter or waitress who insists you eat all your vegetables or no dessert. This restaurant is for those looking for a good laugh and classic American comfort food, in a uniquely themed setting.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Baseline Taphouse",
+      "Meals": "S",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Baseline Taphouse is a newcomer to Hollywood Studios and offers an industrial-chic environment to sit back, unwind, and enjoy a range of California-born beer and wines. This counter service lounge offers delicious snacks as well to accompany your drink selection including spiced almonds, stuffed bavarian pretzels, and a California cheese and charcuterie plate- a welcome respite for the go-go-go of the theme park.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "ABC Commissary",
+      "Meals": "S",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "An art-deco homage to the ABC studios, ABC commissary is tucked away in Commissary Lane of Hollywood Studios. This counterservice spot offers a series of delicious American favorites including burgers, salads, chicken sandwiches, a breakfast charcuterie board, and pot roast.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Hollywood & Vine",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "An art-deco homage to Old Hollywood, Hollywood & Vine is a buffet-style sitdown offering traditional American fare for breakfast, lunch, and dinner. The food isn't anything particularly special, but where this restaurant really shines is its events. Dine for dinner and get preferential seating for Hollywood Studio's Fantasmic, or eat in the morning and meet the cast of hit Disney Junior shows for autographs and pictures.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Dockside Diner",
+      "Meals": "BLD",
+      "Price": "$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "A great counter service for those on the go, conveniently located on Echo Lake of Hollywood studios, those craving American classics such as chili-cheese dogs, barbecue pulled pork sandwiches, and loaded chili cheese nachos will feel right at home. Also offering milkhakes, their kahlua and baileys milkshake in particular is a great way to cool off on a hot night.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Mama Melrose's Ristorante Italiano",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Serving classic Italian dishes with an interior that nods to both Italian and Californian roots, Mama Melrose's is a sitdown for those who want a cozy, familiar meal. Mama Melrose's is also one of the restaurants in the Fantasmic Dinner Package, dine here for dinner with the package and get preferential seating at the Fantasmic nighttime show. Mamma Mia!",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Sci-Fi Dine-In Theatre Restaurant",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Disney theming at its finest. Stepping into Sci-Fi transports back to the bygone era of drive-in theatres, with your table being a converted vintage car parked under a starry outdoor sky. Dig in to classic American favorites like burgers, milkshakes, pasta, steak, and lettuce wraps while watching clips from vintage Sci Fi movies and cartoons on a large drive-in theater movie screen. While the food hasn't been known to be incredible, the experience and theming is second to none.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Backlot Express",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Dine on classic American-fare like burgers, a variety of sandwiches, salads, and nuggets at this indoor/outdoor counter service restaurant themed after the backlots of the studios of Hollywood.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Kat Saka's Kettle",
+      "Meals": "S",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Take a pit stop on your journey through Batuu and chow down on a Galaxy's Edge-exclusive sweet and spicy popcorn mix. This well-themed kiosk also sells their Coke products in the limited edition orbs, which makes for a great souvenir.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Milk Stand",
+      "Meals": "S",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Another Batuuan kiosk, this highly-themed Milk Stand is a delightful homage to the Star Wars green and blue milks that are seen throughout the series. Tasting of fruit flavors, these ' milks ' come chilled and with the option to add alcohol, making it a great midday pick me up as you explore Galaxy's Edge.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Catalina Eddie's",
+      "Meals": "LDS",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Serving up caesar salads and various hot pizzas, Catalina Eddie's is a great go-to counter service for those who want a simple meal to eat al fresco, while taking in the beautiful views of Hollywood Boulevard.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Docking Bay 7 Food and Cargo",
+      "Meals": "BLDS",
+      "Price": "$$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Say 'bright suns' to this incredibly well-themed counter service restaurant in Galaxy's Edge. Authenticity and immersion is key at this cool themed after a Batuuan hangar bay. This restaurant is great for those with a more adventurous palate and have been left wanting by the standard American-fare so uniquitous in Hollywood Studios. Docking Bay 7 serves such dishes as Endorian Tip Yip (fried chicken with vegetable mash), or Surabat Shrimp & Noodle Salad.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Fairfax Fare",
+      "Meals": "LDS",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Location, location, location! Situated at the very end of Hollywood Boulevard, right near the entrances to Rockin' Rollercoaster and Tower of Terror, Fairfax Fare is one of the few restaurants in Hollywood Studios that deviates from the standard American food offerings. Fairfax Fare specializes in Latino entrees including empanadas, burrito bowls, pulled pork sandwiches, and fajita platters. This restaurant is great for people who want something a little different in a beautiful setting.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "PizzeRizzo",
+      "Meals": "LD",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Theming is the big draw for PizzeRizzo, this quick service is a tribute to the Muppets' Rizzo the rat, who, as the story goes has opened up a 'New Yorkish' pizza joint. The seating area is a great place to sit down and take in the scenery while enjoying a slice of pizza, meatball sub, or antipasto salad.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Ronto Roasters",
+      "Meals": "BLDS",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "If you are a fan of theming and tasty food at a reasonable price- Ronto Roasters is the place for you. Step inside Ronto Roasters and watch a pod-racing engine cooking up various meats. This quick service location serves up 'Ronto Wraps', of either a pork, chicken, or egg varieties, as well as several other highly-themed and unique tasting specialities. ",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Rosie's All-American Cafe",
+      "Meals": "LDS",
+      "Price": "$$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "An homage to true American-classics, Rosie's lives up to its name, providing specialties such as hotdogs, hamburgers, fried green tomato sandwiches, and nuggets. This quick service restaurant is great for those who are looking for something classic, quick, and in a great location.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Woody's Lunchbox",
+      "Meals": "BLDS",
+      "Price": "$",
+      "Park": "HS",
+      "Img": "",
+      "Link": "",
+      "Description": "Shrink down to the size of a toy, and stop at this counter service restaurant shaped like an over-sized tin lunchbox, complete with over-sized thermose. Woody's Lunchbox is a newcomer to Hollywood Studios, but has already become a favorite. Serving up American comfort food favorites with a twist, Woody's Lunchbox combines incredible theming, tasty food, and decent prices. ",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "1900 Park Fare",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Tucked away in the Grand Floridian is 1900 Park Fare, a whimsical, pastel homage to the early 1900s carousels, serving up breakfast, brunch, and dinner buffet character meals. The food is traditional American with a refined twist, including butternut squash ravioli, shrimp scampi, prime rib, cheese blintzes and more.",
+      "Tip": "1900  Park Fare also plays host to character tea parties."
+    },
+    {
+      "Restaurant": "Sebastian's Bistro",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Life is the bubbles at Sebastian's Bistro. This upscale Latin and Caribbean surf and turf restaurant is appropriately located at the Caribbean Beach Resort. The restaurant is ideal for a date night, with a bright, fresh vibe and beautiful waterfront views- as well as delicious food- you can't go wrong.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "The Boathouse",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Surf and Turf never looked so good as at the Boathouse. The BoatHouse is situated on the water at Disney Springs and offers upscale eats at reasonable prices. The menu is jam-packed with delicious entrees from both land and sea with lobster rolls from Maine, Key West peel and eat shrimp, salads, and filet mignon sliders- to name a few. This is a must-go for those who want a beautiful view and a nore upscale meal.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "The Polite Pig",
+      "Meals": "LD",
+      "Price": "$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Bring an appetite and be prepared for fun at The Polite Pig. This barbecue quick service is serving up an incredible range of wood-fired barbecue and a dizzying assortment of whiskeys to pair it with. What more can you want? This restaurant is great for someone who wants good food and a good time but doesn't want to break the bank to do it.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Raglan Road",
+      "Meals": "LD",
+      "Price": "$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Raglan Road is a Disney Springs favorite and there is no confusion as to why. Open for brunch, lunch, and dinner, and late-night, this dark-wood, cozy sitdown restaurant offers delicious Irish pub fare, paired with live music and other live entertainment in the form of some very talented Irish Step dancers. Whether you just want to grab a couple drinks at their gorgeous bar, or sitdown for a dinner with your family- you'll be guaranteed to find yourself clapping along to an Irish reel or two before you leave.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Chicken Guy",
+      "Meals": "LDS",
+      "Price": "$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you want good food (not necessarily good /for you/ food), but can't decide what flavors you want- Guy Fieri's Chicken Guy is your answer. A newcomer to Disney Springs, Chicken Guy is already a huge hit for their delicious fried chicken, served with a dizzying array of options for sauce. You'll come back again and again just to try some of the insane flavors Fieri has to offer.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Beaches & Cream Soda Shop",
+      "Meals": "LDS",
+      "Price": "$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Beaches & Cream is another cult-favorite of Disney World, located in the Beach Club Resort, this little pastel-colored soda shop is famous for their delicious (and huge) ice cream sundaes and milkshakes. But, Beaches and Cream also offers a lunch and dinner menu of delicious sandwiches, burgers, tater tots, and salads. This quick service is great for people who want something simply delicious while sitting amongst some very sweet nostalgia.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Boatwright's Dining Hall",
+      "Meals": "LD",
+      "Price": "$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Beautiful decor including the ribbing of an entire boat, amazing Down-South comfort food, and incredible waterfront views of Port Orleans Riverside's waterways make Boatwright's the ideal place to have a tasty dinner with family or friends. This sitdown restaurant at Port Orlean's Riverside is an homage to New Orleans' famous cooking culture with entrees such as Nashville hot chicken, jambalaya, crawfish macaroni, and shrimp and grits. With something for everyone in a casual atmosphere, Boatwright's is a crowd pleaser.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Boma",
+      "Meals": "BD",
+      "Price": "$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Underneath thatched roofs, this buffet-style restaurant styled after a bustling African market place, Boma serves up amazing foods from the 50+ African nations as well as more familiar American favorites. This restaurant is an amazing compromise for those who have an adventurous palate and those who would like something more familiar. Open for breakfast and dinner, Boma has been a crowd-favorite and is great for groups and people looking to expand their horizons.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "California Grill",
+      "Meals": "BLD",
+      "Price": "$$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "California Grill is an institution at Disney World- usually reserved for special occasions, this beautiful retaurant is situated at the top of Contemporary Resort with views of Magic Kingdom park and the Seven Seas Lagoon. Open for brunch and dinner, this restaurant is for those who are looking for an upscale, iconic dining experience at the top of the world. As its name suggests, California Grill specializes in entrees inspired by the Pacific Coast, including a range of sushi rolls, bison, scallops, beef filets, and surf and turf. ",
+      "Tip": "Book a dinner during the nighttime fireworks at the Magic Kingdom for a particularly amazing view."
+    },
+    {
+      "Restaurant": "Cape May Cafe",
+      "Meals": "BD",
+      "Price": "$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Inspired by the New England coast, Cape May Cafe is a breakfast and dinner buffet sitdown located at the Beach Club Resort. This restaurant hosts a Breakfast Beach Bash where guests can meet Minnie and gang as you eat. For breakfast, Cape May offers a traditional American breakfast including eggs, waffles, and meats. However, for dinner, the buffet becomes a glorious seafood buffet, with a selection of seafood, snow crab legs, a carving station, house-baked breads, and more. Ultimately, Cape May is great for people looking for a light-hearted sit-down with classic American food.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Chef Art Smith's Homecomin'",
+      "Meals": "BD",
+      "Price": "$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you are looking for delicious, Floridian, comfort food at incredibly reasonable prices, Homecomin' is the place for you. Located in Disney Springs, this bright and aesthetically pleasing restaurant focuses on a farm-to-table supply chain, making the flavors and the food itself incredibly fresh. Open for brunch, lunch, and dinner- this restaurant is great for those looking for comfort-food and Southern culture with a healthier edge.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Chef Mickey's",
+      "Meals": "BLD",
+      "Price": "$$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "A Walt Disney World icon, Chef Mickey's is the final world in iconic character meals. Located in the lobby of the beautiful Contemporary Resort, enjoy clasic American fare from the buffet as the monorail soars overhead as it passes through the resort. The food isn't anything particularly special but getting to meet the fab five Disney characters in such a bright, happy environment keeps people coming back for more. This restaurant is perfect for those who want a truly classic Disney experience and don't mind paying a bit more for it.",
+      "Tip": "Chef Mickey's can be loud and a bit chaotic so if you are looking for a quieter meal you might want to look elsewhere."
+    },
+    {
+      "Restaurant": "Citricos",
+      "Meals": "D",
+      "Price": "$$$S",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you are looking for upscale eating in a beautiful, meditative space, with beautiful views- Citricos is the place for you. Located in the Grand Floridian, this sitdown restaurant serves up delicious Mediterranean dishes such as ratatouille, red wine-braised beef short ribs, and octopus a la plancha. Additionally, with an extensive, international wine list, Citricos makes an incredible choice for a quiet, romantic dinner for two.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "The Edison",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "The Edison is one of the most unique, adult dining experiences Disney has to offer. Stepping into The Edison one steps into an industrial-Gothic space, with themed areas with names like 'The Tesla Lounge', 'The Lab', and the 'The Ember Parlor', a steady lineup of contortionists, djs, and aerial acrobats- you'll never have the same experience twice.  The Edison specializes in American cuisine and unique craft cocktails.",
+      "Tip": "The Edison is geared far more to the adult-age audience, and therefore might not be appropriate for children."
+    },
+    {
+      "Restaurant": "Flying Fish",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Take a stroll down the Boardwalk to Flying Fish, a beautifully upscale and tasteful sitdown restaurant, where fresh and sustainable seafood and high-quality cuts of meat are the center attraction. Flying Fish is great for those who want a high-quality meal, in a meditative, romantic environment.",
+      "Tip": "Know Before You Go: Flying Fish has a minimum dress code that should be adhered to when dining there."
+    },
+    {
+      "Restaurant": "Hoop-Dee-Doo",
+      "Meals": "D",
+      "Price": "$$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Located in The Campgrounds of Fort Wilderness, Hoop-Dee-Doo is an experience like no other and a fan favorite.  If you are looking for a high-energy, memorable, experience full of laughs and delicious country classics like cornbread, fried chicken, BBQ ribs, and baked beans, this restaurant is for you. The Hoop-Dee-Doo Revue is a buffet dinner show featuring a comedic Vaudeville act that includes dancing, singing, and even a little guest participation.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Jaleo",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "It's all about good food here at Jaleo, a Spanish small plate restaurant headed by reknown chef Jose Andres. This Disney Springs restaurant serves up Spanish favorites like paella, octopus, chorizo, and pulls no punches with authenticity. With a dizzying array of Spanish cheeses, cured meats, and sangria to boot, this restaurant is great for foodies and people that like to take meals slow and really savor a range of flavors.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Jiko",
+      "Meals": "LD",
+      "Price": "$$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Located in the Animal Kingdom lodge, this signature dining experience is equal parts beautiful and delicious. Jiko is a vibrant restaurant serving up upscale African, Meditteranean, and Indian cuisine amidst the crackling sounds of two wood-burning ovens. This restaurant is on the fancier side, with a minimum dress-code and an extensive wine tasting list- this restaurant is an impressive date night out for the couples with a more adventurous appetite, or for those who just want to treat themselves.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Kona Cafe",
+      "Meals": "BLD",
+      "Price": "$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "On the second floor of the Polynesian lobby, Kona Cafe is a funky little sitdown restaurant that serves up great Asian and Hawaiian-inspired dishes in a fun and open atmosphere. The food here is a bit more adventurous than other places in Disney, with poke bowls, duck fried rice, specialty sushi, polynesian tuna nicoise. However, for those who want a more familiar flavor profile, Kona offers a range of delicious burgers, noodle bowls, and stir fry. This place is great for those who want a more adventurous, and FUN meal but aren't ready to shell out for some of the pricier international options.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Morimoto Asia",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Morimoto Asia is a pan-asian restaurant in Disney Springs, helmed by Chef Morimoto of Iron Chef fame. This restaurant has something for everyone, with familiar Chinese food dishes such as orange chicken and pork egg rolls, to sushi and sashimi towers, and wagyu beef and spare-ribs. This restaurant is for those who want to please a crowd and have a little bit of everything. As the cherry on top, the restaurant itself is a feast for the eyes, with an open, two-story floor plan, twenty-foot glitering chandeliers, and modern glass and iron work- it is a sight to behold.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "'Ohana",
+      "Meals": "BD",
+      "Price": "$$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Ohana is another must-go restaurant for Walt Disney World fans, with reservations booking up well in advance, this all you can eat restaunt is great for families who are looking for a great time. The sought-after breakfast buffet is a character meal, featuring Lilo and Stitch, serves up mostly-American breakfast favorites like scrambled eggs, pork sausage, fried potatoes, and mickey waffles. However, the dishes all have their own uniquely Polynesian twist to get you in the spirit. For dinner, the meal is decidedly more Pan-Asian and Hawaiian, with honey coriander wings, schezuan steak, spicy shrimp, and teriyaki noodles you will not go hungry. This restaurant is best for those who are lookign for a familial, all you can eat experience with more exotic flavor than many other locations in Disney.",
+      "Tip": "If you reserve a table during the Magic Kingdom fireworks, you can watch the show from your seat if you are located near the windows."
+    },
+    {
+      "Restaurant": "Sanaa",
+      "Meals": "LD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "A favorite of the more adventurous eaters at Disney World, Sanaa is a sitdown restaurant located in the Animal Kingdom's Kidani Village, that serves up a mouthwatering hybrid of African and Indian cuisine. Not only is the food in this restaurant delicious, but the large windows open up to the Animal Kingdom Lodge's Sunset Savana, giving you an up close look at that animals, entertaining kids, and serving as a romantic backdrop for the adults. This restauarant is great for those with a more adventurous appetite, and aren't afraid of a little spice.",
+      "Tip": "A Be Our Guest favorite. We highly recommend the bread service."
+    },
+    {
+      "Restaurant": "Story Book Dining at Artist Point",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Meet Snow White and the Seven Dwarves at this sitdown themed after the enchanted forest at the Wilderness Lodge. This restaurant is great for those who love theming at every step of their meal. Story Book offers an array of entrees for every taste with whimsical names like 'A Stroll Through Nature' for a vegetarian dish, and the 'Poison Apple' dessert being a dark chocolate apple mousse shaped liked an actual apple- the dishes are all part of the fun- and delicious to boot.",
+      "Tip": ""
+    },
+    {},
+    {
+      "Restaurant": "Toledo",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "For those who like the finer things including delicious Spanish-style tapas, and amazing views Toledo is for you. Located in Coronado Springs Resort, this rooftop sitdown restaurant is perfect for a quiet dinner where you can sit back, sip wine, and enjoy a delicious meal. One of the stand-out offerings of Toledo is the Chef's Dinner for two which comes with four small plates, a charcuterie board, a 28oz rib eye, and a tapas bar dessert. You can't beat that.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Topolino's Terrace",
+      "Meals": "D",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "A newcomer to Disney World is already making waves for its delicious food, views, and character breakfast. Topolino's Terrace is located at Disney's newly-opened Riviera Resort. Specializing in Italian and French cuisine, this rooftop restaurant serves up delicious specialities like quiche gruyere, a variety of antipastos, escargot, linguine scampi, bouillabaisse, and filet mignon- to name a few. The character breakfast gives you a chance to meet and get pictures with Mickey, Minnie, Donald, and Daisey, combined with the top-rate food, and incredible views- Topolino's Terrace has something for everyone.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Trail's End",
+      "Meals": "BLD",
+      "Price": "$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you're looking for some quality, hearty, down-home food look no farther than Trail's End at the Fort Wilderness Campgrounds. This casual, buffet style restaurant serves up delicious comfort food favorites including pulled pork benedict, biscuits and gravy, chili, smoked turkey, friend chicken, barbecue spare-ribs and much more. This restaurant is great for those who want good food, in a casual, homey atmosphere, at a reasonable price.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Victoria & Albert's",
+      "Meals": "D",
+      "Price": "$$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "Victoria and albert's is the penultimate in fine dining and upscale grandeur at Walt Disney World. Located in the Grand Floridian, this AAA, five diamond sitdown restaurant serves eclectic, upscale dishes with an attention to detail and quality that is reported to be well-worth the price. This restaurant is great for those who really care about unrivaled quality and elegance, and may be celebrating a special occasion. If you can swing it, Victoria and Albert's is a once in a lifetime experience.",
+      "Tip": ""
+    },
+    {
+      "Restaurant": "Whispering Canyon Cafe",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "If you like quite, meditative dining experiences with small portions and elegant dishes- Whispering Canyon Cafe is not for you. Located in the Wilderness Lodge, Whispering Canyon Cafe is an all you can eat (or a la carte for lunch), family style restaurant serving up Western barbecue dishes and a side of sass. This place is will make you laugh throughout your meal, with waiter-led games and activities this restaurant is best enjoyed in a group.",
+      "Tip": "Go ahead- ask for ketchup."
+    },
+    {
+      "Restaurant": "Yachtsman Steakhouse",
+      "Meals": "BLD",
+      "Price": "$$$",
+      "Park": "NaP",
+      "Img": "",
+      "Link": "",
+      "Description": "The word at Yachtsman is 'luxury', this New England-style Steakhouse located at the Yacht Club Resort serves up incredible selections of high-quality fish and steak for a luxurious sitdown dinner experience. Surrounded by beautiful timbered ceilings, and beautiful views, this restaurant is great for romantic nights out, where you can sit back, enjoy a glass of wine, and savor a truly delicious meal.",
+      "Tip": "Go ahead- ask for ketchup."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+.Welcome {
+  margin-top: 15vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.Welcome-box {
+  width: 40vw;
+  height: 40vh;
+  color: rgb(95, 122, 241);
+  text-align: center;
+  align-items: center;
+}
+.Welcome-title {
+  font-size: calc(10px + 4vmin);
+  font-family: "Questrial", sans-serif;
+  margin: 0.5em;
+}
+.Welcome-start {
+  font-size: calc(10px + 2vmin);
+  background: rgba(111, 139, 233, 0.863);
+  color: white;
+  text-align: center;
+  max-width: 15vw;
+  min-width: 10vw;
+  padding: 2%;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.ChoiceAreaBox {
+  margin-top: 1rem;
+}
+.ChoiceArea {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+}
+.Welcome-title {
+  font-family: "Josefin Sans";
+  font-weight: 500;
+  font-size: 3em;
+}
+input[type="radio"] {
+  visibility: hidden;
+}
+
+.ChoiceItems:hover {
+  background-color: rgb(255, 216, 109);
+  color: cornflowerblue;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex: 25%;
+  max-width: 60%;
+}
+.ChoiceAreaSubmit {
+  display: block;
+  margin: 1% auto;
+}
+.ChoiceItems {
+  text-align: center;
+  margin: 5px;
+  display: inline-block;
+  color: white;
+  font-size: 90%;
+  font-weight: 600;
+  padding: 10px;
+  flex: 0 0 10vw;
+  background-color: rgba(111, 139, 233, 0.863);
+  min-width: 7vw;
+  align-content: center;
+  width: 25vw;
+  vertical-align: middle;
+  height: 6vh;
+}
+.SubmitButton {
+  text-align: center;
+  margin: 1% auto;
+  display: block;
+  padding: 5px;
+  color: white;
+  background-color: cornflowerblue;
+  width: 20vw;
+  height: 7vh;
+  font-size: 100%;
+  font-weight: 700;
+  border-radius: 25px;
+}
+.SubmitButton:focus {
+  outline: 0;
+}
+.QuestionNumber {
+  margin: auto;
+  font-weight: 700;
+  color: cornflowerblue;
+  align-items: center;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.QuestionText {
+  margin: 2% auto;
+  align-items: center;
+  font-weight: 600;
+  color: cornflowerblue;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.QuestionTextBox {
+  margin: 4% auto;
+  align-items: center;
+  width: 60vw;
+  height: 20%;
+}

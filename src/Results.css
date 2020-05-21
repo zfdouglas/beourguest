@@ -1,0 +1,29 @@
+.results {
+  width: 100%;
+}
+.congratsBanner {
+  text-align: center;
+  color: rgb(61, 123, 238);
+  font-size: 3em;
+  font-weight: 600;
+}
+.singleResultBox {
+  width: 40vw;
+  height: 70vh;
+  margin: auto;
+  color: rgb(61, 123, 238);
+}
+.restaurantTitle {
+  margin-top: 0.7em;
+  font-size: 1.5em;
+  font-weight: 600;
+  text-align: center;
+}
+.restaurantImage {
+  width: 100%;
+  max-height: 50%;
+}
+.restaurantDescription {
+  margin-top: 1em;
+  font-size: 1.1em;
+}
