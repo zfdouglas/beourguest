@@ -22,14 +22,15 @@ function Results(props) {
     var result = RestaurantData.locations.filter((obj) => {
       return obj.Restaurant === nameToLookUp;
     });
-    return result[0].Description;
+    return result[0];
   }
   return (
     <div className="Results">
       <h1 className="congratsBanner">Congratulations! You Got...</h1>
       <SingleResultBox
         restaurantName={getTopMatch(props.resultData)[0].Name}
-        description={getDescriptinator(props.resultData)}
+        description={getDescriptinator(props.resultData).Description}
+        park={getDescriptinator(props.resultData).Park}
       />
     </div>
   );
