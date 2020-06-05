@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/beourguest/static/css/main.8d81a416.chunk.css",
-    "main.js": "/beourguest/static/js/main.9b45ac0d.chunk.js",
-    "main.js.map": "/beourguest/static/js/main.9b45ac0d.chunk.js.map",
+    "main.css": "/beourguest/static/css/main.ccf8734f.chunk.css",
+    "main.js": "/beourguest/static/js/main.3cddd984.chunk.js",
+    "main.js.map": "/beourguest/static/js/main.3cddd984.chunk.js.map",
     "runtime-main.js": "/beourguest/static/js/runtime-main.9145185f.js",
     "runtime-main.js.map": "/beourguest/static/js/runtime-main.9145185f.js.map",
-    "static/js/2.50fbf7cc.chunk.js": "/beourguest/static/js/2.50fbf7cc.chunk.js",
-    "static/js/2.50fbf7cc.chunk.js.map": "/beourguest/static/js/2.50fbf7cc.chunk.js.map",
+    "static/js/2.ccb893e3.chunk.js": "/beourguest/static/js/2.ccb893e3.chunk.js",
+    "static/js/2.ccb893e3.chunk.js.map": "/beourguest/static/js/2.ccb893e3.chunk.js.map",
     "index.html": "/beourguest/index.html",
-    "precache-manifest.b7e958e0bdfc937b5ce1bc71474b6c7f.js": "/beourguest/precache-manifest.b7e958e0bdfc937b5ce1bc71474b6c7f.js",
+    "precache-manifest.eb7352f994f155e134c4ce5bad9af821.js": "/beourguest/precache-manifest.eb7352f994f155e134c4ce5bad9af821.js",
     "service-worker.js": "/beourguest/service-worker.js",
-    "static/css/main.8d81a416.chunk.css.map": "/beourguest/static/css/main.8d81a416.chunk.css.map",
-    "static/js/2.50fbf7cc.chunk.js.LICENSE.txt": "/beourguest/static/js/2.50fbf7cc.chunk.js.LICENSE.txt",
+    "static/css/main.ccf8734f.chunk.css.map": "/beourguest/static/css/main.ccf8734f.chunk.css.map",
+    "static/js/2.ccb893e3.chunk.js.LICENSE.txt": "/beourguest/static/js/2.ccb893e3.chunk.js.LICENSE.txt",
     "static/media/B.png": "/beourguest/static/media/B.8b8b0bad.png",
     "static/media/BD.png": "/beourguest/static/media/BD.858375fd.png",
     "static/media/BLD.png": "/beourguest/static/media/BLD.85d72705.png",
@@ -26,7 +26,9 @@
     "static/media/epcot.png": "/beourguest/static/media/epcot.2a48e8b2.png",
     "static/media/hs2.jpg": "/beourguest/static/media/hs2.001dd516.jpg",
     "static/media/logo.png": "/beourguest/static/media/logo.2342406d.png",
-    "static/media/misc 2.jpg": "/beourguest/static/media/misc 2.564d6bf0.jpg",
+    "static/media/logoblue.png": "/beourguest/static/media/logoblue.3374eed2.png",
+    "static/media/logolblue.png": "/beourguest/static/media/logolblue.861c4b50.png",
+    "static/media/misc2.jpg": "/beourguest/static/media/misc2.564d6bf0.jpg",
     "static/media/mk2.jpg": "/beourguest/static/media/mk2.9c349ccb.jpg",
     "static/media/money1.png": "/beourguest/static/media/money1.879272f6.png",
     "static/media/money2.png": "/beourguest/static/media/money2.648f2ce4.png",
@@ -36,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9145185f.js",
-    "static/js/2.50fbf7cc.chunk.js",
-    "static/css/main.8d81a416.chunk.css",
-    "static/js/main.9b45ac0d.chunk.js"
+    "static/js/2.ccb893e3.chunk.js",
+    "static/css/main.ccf8734f.chunk.css",
+    "static/js/main.3cddd984.chunk.js"
   ]
 }
