@@ -26,11 +26,12 @@ function Results(props) {
   }
   return (
     <div className="Results">
-      <h1 className="congratsBanner">Congratulations! You Got...</h1>
       <SingleResultBox
+        money={getDescriptinator(props.resultData).Price}
         restaurantName={getTopMatch(props.resultData)[0].Name}
         description={getDescriptinator(props.resultData).Description}
         park={getDescriptinator(props.resultData).Park}
+        meals={getDescriptinator(props.resultData).Meals}
       />
     </div>
   );

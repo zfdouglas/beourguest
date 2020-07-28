@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./logo.png";
+import logo from "./img/logo.png";
 import MasterContainer from "./MasterContainer.jsx";
 import "./App.css";
 
@@ -7,39 +7,48 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      home: false,
-    };
-    this.goHome = this.goHome.bind(this);
-    this.resetHome = this.resetHome.bind(this);
-  }
-  goHome = () => {
-    this.setState({
       home: true,
-    });
+      view: null,
+      isStart: true,
+    };
+    this.setAsHome = this.setAsHome.bind(this);
+    this.quizStarted = this.quizStarted.bind(this);
+  }
+  //Sets state to true when nav logo is clicked
+  setAsHome = () => {
+    if (this.state.home !== true) {
+      this.setState({
+        home: true,
+        isStart: true,
+      });
+    }
   };
-  resetHome = () => {
+  //Sets state to false when quiz is started
+  quizStarted = () => {
     this.setState({
       home: false,
+      isStart: false,
     });
-    return true;
   };
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
+      <div className={this.state.isStart ? "AppHome" : "AppQuiz"}>
+        <header className="AppHeader">
           <img
             src={logo}
-            className="App-logo"
+            className="AppLogo"
             alt="logo"
-            onClick={this.goHome}
+            onClick={this.setAsHome}
           />
-          <p className="App-title" onClick={this.goHome}>
+          <p className="AppTitle" onClick={this.setAsHome}>
             Be Our Guest
           </p>
         </header>
         <MasterContainer
-          hasReset={this.resetHome}
           homeClick={this.state.home}
+          quizStart={this.quizStarted}
+          homeToggle={this.homeToggle}
         ></MasterContainer>
       </div>
     );

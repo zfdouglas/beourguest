@@ -8,16 +8,19 @@ class AnswerItem extends React.Component {
     this.handleChange = this.handleChange.bind(this);
     this.handleClick = this.handleClick.bind(this);
   }
+  //Notifies the parent component of user choice
   handleChange = (event) => {
     var answer = event.target.value;
     this.props.onChoiceSelection(answer);
   };
 
+  //Notifies the parent component of the user choosing the item.
   handleClick = () => {
     var answer = this.props.itemVal;
     this.props.onChoiceSelection(answer);
   };
 
+  //Highlights the chosen answer item when selected
   colorinator(isChoice) {
     if (isChoice === true) {
       return { backgroundColor: "rgb(255, 216, 109)", color: "cornflowerblue" };
@@ -46,7 +49,7 @@ class AnswerItem extends React.Component {
             htmlfor={this.props.itemVal}
             onClick={this.handleClick}
           >
-            {this.props.itemName}
+            <div className="ChoiceText"> {this.props.itemName}</div>
           </label>
         </div>
       </div>

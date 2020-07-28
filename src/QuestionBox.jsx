@@ -6,16 +6,16 @@ class QuestionBox extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      answer: "",
+      answer: null,
     };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleSelection = this.handleSelection.bind(this);
   }
-
+  //Sets answer to the value of the user's current choice to
   handleSelection(selectionValue) {
     this.setState({ answer: selectionValue });
   }
-
+  //Submits the answer to MainContainer component.
   handleSubmit(event) {
     event.preventDefault();
     if (this.state.answer !== null) {

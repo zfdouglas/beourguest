@@ -1,6 +1,7 @@
 {
   "name": "disneats",
   "version": "0.1.0",
+  "homepage": "http://zfdouglas.github.io/beourguest",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -27,7 +28,6 @@
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "http://zfdouglas.github.io/beourguest",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",

@@ -2,11 +2,10 @@ import React from "react";
 import "./mastercontainer.css";
 import StartButton from "./masterStart.jsx";
 import QuestionBox from "./QuestionBox.jsx";
-import Rizzo from "./rizzo.png";
 import qData from "./questionData.json";
 import lData from "./locationData.json";
 import Results from "./Results.jsx";
-
+import Logo from "./img/logoblue.png";
 class MasterContainer extends React.Component {
   constructor(props) {
     super(props);
@@ -17,35 +16,37 @@ class MasterContainer extends React.Component {
     this.dataArray = qData.questions;
     this.arrayOfUserAnswers = [];
     this.state = {
+      start: true,
       view: "start",
       i: 0,
-      buttonText: "Begin",
+      buttonText: "Put Our Service to the Test!",
       button: "Start",
       content: null,
-      title: "Welcome to Be Our Guest!",
+      title: "Put Our Service to the Test!",
       answer: [],
       list: [],
-      homeClicked: false,
     };
   }
-
+  //Resets State to the default on the MasterContainer component.
   homeClicked = (isTrue) => {
-    if (isTrue) {
+    if (this.state.start !== isTrue) {
       this.setState({
+        start: true,
         view: "start",
         i: 0,
-        buttonText: "Begin",
+        buttonText: "Put Our Service to the Test!",
         button: "Start",
         content: null,
-        title: "Welcome to DisnEats!",
+        title: "Put Our Service to the Test!",
         answer: [],
         list: [],
-        homeClicked: true,
+        answerKey: [],
       });
-      this.props.hasReset();
     }
   };
+  //Sets the initial quiz state. Content = first question. Title = question number. Answer Key = an array with all possible choices for the given question. qSort = Unique id for question. List = all possible locations, to be filtered as questions are answered
   onStartClick = () => {
+    this.props.quizStart();
     this.setState({
       buttonText: "",
       view: "quiz",
@@ -54,10 +55,10 @@ class MasterContainer extends React.Component {
       answerKey: this.dataArray[this.state.i].choices,
       qSort: this.dataArray[this.state.i].qSort,
       list: JSON.parse(JSON.stringify(lData.locations)),
-      homeClicked: false,
+      start: false,
     });
   };
-
+  //Function that takes in the unique sort id for a question, and the value of the user's choice, and increments the point values of all locations that fall under the answer value's criteria. Called by addAnswer().
   filterLocations = (sortMethod, answerValue) => {
     const list = [...this.state.list];
     if (sortMethod === "Name") {
@@ -81,6 +82,7 @@ class MasterContainer extends React.Component {
     }
     return list;
   };
+  //Takes in the answerValue of the user's choice, and sets the state. state.Answer updates to include the latest user answer. state.Content updates to the next question. state.Title updates to the next question number. state.answerKey updates to the choices for the next question. state.qSort updates to the unique id of the next question. state.list updates to the list of all locations with the updated point values.
   addAnswer = (answerValue) => {
     let screenState = "quiz";
     let updatedList = this.filterLocations(this.state.qSort, answerValue);
@@ -100,6 +102,7 @@ class MasterContainer extends React.Component {
       view: screenState,
     });
   };
+  //Takes in the final list of locations with final point values, and returns that list sorted with locations sorted from highest point value to lowest point value.
   endQuiz = (list) => {
     return list.map((item) => {
       return item.Places.sort((a, b) => {
@@ -112,14 +115,13 @@ class MasterContainer extends React.Component {
       <div homeClicked={this.homeClicked(this.props.homeClick)}>
         {this.state.view === "start" && (
           <div className="Welcome">
-            <div className="Welcome-box">
-              <p className="Welcome-title">{this.state.title}</p>
+            <div className="WelcomeBox">
               <p className="Question">{this.state.content}</p>
               <div onClick={this.onStartClick}>
                 <img
-                  style={{ width: "30%", marginBottom: "1%" }}
-                  src={Rizzo}
-                  alt="Rizzo"
+                  className="HomeImg"
+                  src={Logo}
+                  alt="Crossed Spoon and Fork"
                 />
                 <StartButton buttonTitle={this.state.buttonText}></StartButton>
               </div>
@@ -127,9 +129,11 @@ class MasterContainer extends React.Component {
           </div>
         )}
         {this.state.view === "quiz" && (
-          <div className="QuestionTextBox">
-            <div className="QuestionNumber">{this.state.title}</div>
-            <div className="QuestionText">{this.state.content}</div>
+          <div className="QuestionContainer">
+            <div className="QuestionTextBox">
+              <div className="QuestionNumber">{this.state.title}</div>
+              <div className="QuestionText">{this.state.content}</div>
+            </div>
           </div>
         )}
         <div className="ChoiceAreaBox">
