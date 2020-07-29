@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fff4894f66c53a71120c7675cb003503",
+    "revision": "859121ddcf7bd43c2ef6042ddb47565e",
     "url": "/beourguest/index.html"
   },
   {
-    "revision": "86965b8786c2d5422943",
-    "url": "/beourguest/static/css/main.75098112.chunk.css"
+    "revision": "05ee09c0e311e0bacf58",
+    "url": "/beourguest/static/css/main.257e5e3a.chunk.css"
   },
   {
     "revision": "42ac3303fdf7edbaf8ef",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beourguest/static/js/2.50fbf7cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86965b8786c2d5422943",
-    "url": "/beourguest/static/js/main.aa893a96.chunk.js"
+    "revision": "05ee09c0e311e0bacf58",
+    "url": "/beourguest/static/js/main.a1b43a40.chunk.js"
   },
   {
     "revision": "13c9a5a91eb917e05efb",
