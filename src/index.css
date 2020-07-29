@@ -9,7 +9,9 @@ body {
   /* background-color: rgb(231, 242, 250); */
   cursor: default;
 }
-
+.root {
+  width: 100vw;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;

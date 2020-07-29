@@ -17,14 +17,14 @@
   border-radius: 5px;
 }
 .restaurantTitle {
-  font-size: 1.5vw;
+  font-size: 1vw;
   margin-bottom: 10%;
   font-weight: 600;
   text-align: center;
 }
 .restaurantImage {
   width: 100%;
-  height: 20vh;
+  min-height: 20vh;
   text-align: -webkit-center;
   font-weight: 700;
   color: white;
@@ -36,6 +36,8 @@
 h1.restaurantSuper {
   padding-top: 6%;
   padding-bottom: 6%;
+  text-align: center;
+  margin: auto;
 }
 .restaurantDescription {
   margin-top: 4%;
@@ -57,4 +59,34 @@ h1.restaurantSuper {
 .restaurantMoney {
   width: 12%;
   margin: 5px;
+}
+@media screen and (max-width: 800px) {
+  .singleResultBox {
+    width: 90vw;
+    max-height: 80vh;
+    border-radius: 5px;
+  }
+  .restaurantInfoBox {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 90vw;
+    text-align: center;
+    display: block;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+  .restaurantImage {
+    width: 100%;
+    min-height: 20vh;
+    text-align: -webkit-center;
+    font-weight: 700;
+    color: white;
+    font-size: 0.8rem;
+    letter-spacing: 0.7rem;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+  .restaurantDescription {
+    font-size: 3vw;
+  }
 }

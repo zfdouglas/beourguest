@@ -1,9 +1,15 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Questrial&display=swap");
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 .AppHome {
   font-family: "Spartan";
   font-size: 80%;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-image: url("./img/background.png");
   background-position: center;
@@ -13,7 +19,7 @@
 .AppQuiz {
   font-family: "Spartan";
   font-size: 80%;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-image: url("./img/background3.png");
   background-position: center;

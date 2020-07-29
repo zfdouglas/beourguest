@@ -57,7 +57,7 @@
       "choices": [
         { "Name": "Something exotic, or challenging", "Value": "Challenge" },
         { "Name": "My go-to dish I get everywhere", "Value": "Same" },
-        { "Name": "Whatever the current ' in ' food is", "Value": "Fad" },
+        { "Name": "Whatever food I heard was good", "Value": "Fad" },
         { "Name": "Something I have a hard time cooking", "Value": "Fancy" }
       ]
     },
@@ -138,12 +138,11 @@
       "questionText": "What special Disney restaurant ' plus ' is important to you?",
       "qSort": "Special",
       "choices": [
+        { "Name": "Doesn't matter/None of the Above", "Value": "NoMatter" },
         { "Name": "Character Dining", "Value": "Characters" },
         { "Name": "Dinner Show", "Value": "Show" },
         { "Name": "Dinner and Nighttime Event Package", "Value": "Event" },
-        { "Name": "All-You-Can-Eat", "Value": "AllYou" },
-        { "Name": "Doesn't matter", "Value": "NoMatter" }
-      ]
+        { "Name": "All-You-Can-Eat", "Value": "AllYou" }      ]
     },
 
     {
