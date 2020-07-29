@@ -1,5 +1,5 @@
 import React from "react";
-import "./mastercontainer.css";
+import "../MasterContainer/mastercontainer.css";
 
 class AnswerItem extends React.Component {
   constructor(props) {

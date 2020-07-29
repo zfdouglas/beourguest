@@ -1,6 +1,6 @@
 import React from "react";
 import "./Results.css";
-import RestaurantData from "./restaurantData.json";
+import RestaurantData from "../Data/restaurantData.json";
 import SingleResultBox from "./SingleResultBox.jsx";
 function Results(props) {
   function getTopMatch(list) {

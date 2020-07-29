@@ -1,11 +1,11 @@
 import React from "react";
 import "./mastercontainer.css";
 import StartButton from "./masterStart.jsx";
-import QuestionBox from "./QuestionBox.jsx";
-import qData from "./questionData.json";
-import lData from "./locationData.json";
-import Results from "./Results.jsx";
-import Logo from "./img/logoblue.png";
+import QuestionBox from "../QuizComponents/QuestionBox.jsx";
+import qData from "../Data/questionData.json";
+import lData from "../Data/locationData.json";
+import Results from "../Results/Results.jsx";
+import Logo from "../img/logoblue.png";
 class MasterContainer extends React.Component {
   constructor(props) {
     super(props);

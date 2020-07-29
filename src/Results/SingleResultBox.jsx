@@ -1,25 +1,25 @@
 import React from "react";
 import "./Results.css";
-import Placeholder from "./img/epcot.png";
-import MK from "./img/mk2.jpg";
-import AK from "./img/ak2.jpg";
-import HS from "./img/hs2.jpg";
-import EP from "./img/ep2.jpg";
-import NaP from "./img/misc2.jpg";
-import $ from "./img/money1.png";
-import $$ from "./img/money2.png";
-import $$$ from "./img/money3.png";
-import $$$$ from "./img/money4.png";
-import BLDS from "./img/BLDS.png";
-import B from "./img/B.png";
-import BD from "./img/BD.png";
-import BDS from "./img/bds.png";
-import BLD from "./img/BLD.png";
-import D from "./img/D.png";
-import L from "./img/L.png";
-import LDS from "./img/LDS.png";
-import S from "./img/BLDS.png";
-import LD from "./img/LD.png";
+import Placeholder from "../img/epcot.png";
+import MK from "../img/mk2.jpg";
+import AK from "../img/ak2.jpg";
+import HS from "../img/hs2.jpg";
+import EP from "../img/ep2.jpg";
+import NaP from "../img/misc2.jpg";
+import $ from "../img/money1.png";
+import $$ from "../img/money2.png";
+import $$$ from "../img/money3.png";
+import $$$$ from "../img/money4.png";
+import BLDS from "../img/BLDS.png";
+import B from "../img/B.png";
+import BD from "../img/BD.png";
+import BDS from "../img/bds.png";
+import BLD from "../img/BLD.png";
+import D from "../img/D.png";
+import L from "../img/L.png";
+import LDS from "../img/LDS.png";
+import S from "../img/BLDS.png";
+import LD from "../img/LD.png";
 
 //Sets the color based off of the result box based off of the result
 function SingleResultBox(props) {

@@ -1,5 +1,5 @@
 import React from "react";
-import "./mastercontainer.css";
+import "../MasterContainer/mastercontainer.css";
 import AnswerItem from "./AnswerItem.jsx";
 
 class QuestionBox extends React.Component {

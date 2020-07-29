@@ -45,6 +45,7 @@ input[type="radio"] {
 .ChoiceItems:hover {
   background-color: rgb(255, 216, 109);
   color: cornflowerblue;
+  cursor: pointer;
 }
 
 .flex-container {
@@ -72,8 +73,8 @@ input[type="radio"] {
 .ChoiceItems {
   text-align: center;
   color: white;
-  display: inline-block;
-  font-size: 2vmin;
+  display: flex;
+  font-size: 2.5vh;
   font-weight: 600;
   background-color: rgba(111, 139, 233, 0.863);
   min-width: 7vw;
@@ -82,7 +83,9 @@ input[type="radio"] {
   vertical-align: middle;
   height: 10vh;
   margin: 0.5vw;
+  justify-content: center;
 }
+
 .ChoiceText {
   padding: 5%;
 }
@@ -105,6 +108,9 @@ input[type="radio"] {
 .SubmitButton:focus {
   outline: 0;
 }
+.SubmitButton:hover {
+  cursor: pointer;
+}
 .QuestionNumber {
   margin: auto;
   margin-bottom: 2%;
@@ -120,7 +126,7 @@ input[type="radio"] {
   align-items: center;
   font-weight: 600;
   color: rgb(255, 216, 109);
-  font-size: 3vw;
+  font-size: 4vw;
   text-align: center;
   font-family: "Voltaire";
 }
@@ -128,8 +134,8 @@ input[type="radio"] {
 .QuestionTextBox {
   margin: auto;
   align-items: center;
-  width: 60vw;
-  height: 25vh;
+  width: 75vw;
+  min-height: 25vh;
 }
 
 .QuestionContainer {
@@ -164,9 +170,11 @@ input[type="radio"] {
     min-width: 40vw;
     margin: 1vw;
     min-height: 7vh;
+    display: flex;
+    justify-content: center;
   }
   .ChoiceText {
-    font-size: 2.5vmin;
+    font-size: 1.8vh;
   }
   .ChoiceAreaSubmit {
     width: 100vw;
@@ -175,11 +183,12 @@ input[type="radio"] {
     margin-top: 5%;
     width: 50vw;
     height: 7vh;
+    font-size: 2vh;
   }
   .QuestionTextBox {
     width: 100vw;
   }
   .QuestionText {
-    font-size: 5vw;
+    font-size: 6vh;
   }
 }

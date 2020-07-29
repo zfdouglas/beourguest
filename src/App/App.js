@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "./img/logo.png";
-import MasterContainer from "./MasterContainer.jsx";
+import logo from "../img/logo.png";
+import MasterContainer from "../MasterContainer/MasterContainer.jsx";
 import "./App.css";
 
 class App extends React.Component {

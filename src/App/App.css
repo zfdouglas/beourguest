@@ -11,7 +11,7 @@ body {
   font-size: 80%;
   width: 100vw;
   height: 100vh;
-  background-image: url("./img/background.png");
+  background-image: url("../img/background.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ body {
   font-size: 80%;
   width: 100vw;
   height: 100vh;
-  background-image: url("./img/background3.png");
+  background-image: url("../img/background3.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -51,4 +51,11 @@ body {
   font-size: 1.4em;
   font-weight: 500;
   word-spacing: -0.3em;
+}
+.AppLogo:hover {
+  cursor: pointer;
+}
+.AppTitle:hover {
+  cursor: pointer;
+  color: rgb(255, 216, 109);
 }
